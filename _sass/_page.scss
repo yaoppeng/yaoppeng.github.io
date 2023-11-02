@@ -13,6 +13,7 @@
 
   @include breakpoint($x-large) {
     max-width: $x-large;
+    padding-left: 10%;
   }
 }
 
