@@ -40,7 +40,8 @@
     }
 
     @include breakpoint($x-large) {
-      @include prefix(1.5 of 12);
+      // @include prefix(1.5 of 12);
+      @include prefix(3.5 of 12);
     }
   }
 
