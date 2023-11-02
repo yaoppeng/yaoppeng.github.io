@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yaopeng Peng (彭耀鹏)"
   avatar           : "profile.png"
-  bio              : "5-the year CS Ph.D student at the University of Notre Dame."
+  bio              : "5th year CS Ph.D. student at the University of Notre Dame."
   location         : "Notre Dame, IN, USA"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :  mailto:ypeng4@nd.edu
+  email            :  ypeng4@nd.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "github.com/yaoppeng"
+  github           : "yaoppeng"
   google_plus      :
   keybase          :
   instagram        :
