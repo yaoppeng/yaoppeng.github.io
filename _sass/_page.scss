@@ -21,6 +21,7 @@
 }
 
 .page {
+  width: 70%;
   @include breakpoint($x-large) {
     width: 70%;
   }
