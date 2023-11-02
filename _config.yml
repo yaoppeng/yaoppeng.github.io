@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-# title                    : "Yaopeng's Site"
+title                    : "Yaopeng's Site"
 title_separator          : "-"
 name                     : &name "Yaopeng"
 description              : &description "personal description"
