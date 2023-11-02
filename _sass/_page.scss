@@ -15,12 +15,15 @@
     max-width: $x-large;
     // padding-left: 10%;
     // padding-right: 10%;
+    padding-left: 50%;
+    width: 50%;
   }
 }
 
 .page {
   @include breakpoint($large) {
     padding-left: 50%;
+    width: 50%;
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
     @include suffix(2 of 12);
